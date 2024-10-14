@@ -183,7 +183,7 @@ function carregarAlunos(anoSelecionado) {
             
             let formacao = "";
             if (cursoSelecionado == "Geologia"){
-                formacao = "Geologo";
+                formacao = "Geólogo";
             } else if (cursoSelecionado == "Geofísica"){
                 formacao = "Geofísico";
             } else if (cursoSelecionado == "Ciências Ambientais"){
